@@ -1,5 +1,5 @@
 {
-  "name": "serverless-google-cloudfunctions",
+  "name": "@aftership/serverless-google-cloudfunctions",
   "version": "2.4.2",
   "description": "Provider plugin for the Serverless Framework v1.x which adds support for Google Cloud Functions.",
   "author": "serverless.com",
