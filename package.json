@@ -59,7 +59,7 @@
     "lint-staged": "^10.0.8",
     "prettier": "^1.19.1",
     "sinon": "^7.5.0",
-    "standard-version": "^7.1.0"
+    "standard-version": "^9.0.0"
   },
   "scripts": {
     "commitlint": "commitlint -f HEAD@{15}",
